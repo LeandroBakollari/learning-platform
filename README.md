@@ -39,3 +39,4 @@ This **School Management System** extends this concept by creating a dynamic, ce
 ## 👨‍💻 Contributers
 - **Leandro Bakollari**
 - **Oresti Duka**
+- **Dejnira Koza**
