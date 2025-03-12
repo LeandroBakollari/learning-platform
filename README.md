@@ -24,14 +24,14 @@ This **School Management System** extends this concept by creating a dynamic, ce
  - **09:** Teachers can engage with their students by providing feedback, making announcements, and sending messages.
 
 
-#### 🔧 **Admin Requirements**  
-- **10:** Admins can create, update, and delete student and teacher accounts.  
-- **11:** Admins should monitor platform performance and manage content storage.  
-- **12:** Admins must define roles and restrict access to certain features.  
+#### 🔧 **Principal/Administrator Requirements**  
+- **10:** The Principal/Administrator can create, update, and delete student and teacher accounts.  
+- **11:** They can monitor the performance of both teachers and students.   
+- **12:** Administrators/Principals must define roles and restrict access to certain features.  
 
 ### Non-Functional Requirements  
 
-- **01:** The system should handle at least **100 simultaneous users** without lag.  
+- **01:** The system should handle at least **100 simultaneous users** without lage .  
 - **02:** Passwords must be encrypted, and user roles should restrict access.  
 - **03:** The interface should be clean and easy to navigate on both desktop and mobile devices.  
 - **04:** Data should be auto-saved, ensuring no progress is lost during a session.  
