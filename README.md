@@ -14,7 +14,7 @@ This **School Management System** extends this concept by creating a dynamic, ce
 - **01:** Students must be able to create an account using an email and password.  
 - **02:** Students can view and download course materials (PDFs, videos, slides, etc.) uploaded by teachers.  
 - **03:** Students should complete quizzes or tests within a set time limit and submit answers.  
-- **04:** Students can access their scores and performance analytics (e.g., progress charts).  
+- **04:** Students can track their scores and progress charts while earning badges, rewards, and leaderboard rankings for achievements.  
 
 ####  👩‍🏫 **Teacher Requirements**  
 - **05:** Teachers can create classes, add students, and assign learning materials.  
