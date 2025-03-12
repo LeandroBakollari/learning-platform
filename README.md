@@ -20,12 +20,14 @@ This **School Management System** extends this concept by creating a dynamic, ce
 - **05:** Teachers can create classes, add students, and assign learning materials.  
 - **06:** Teachers can upload content in various formats (documents, videos, links).  
 - **07:** Teachers can create quizzes with multiple question types (MCQs, short answers, etc.).  
-- **08:** Teachers can view student scores, completion rates, and individual progress.  
+- **08:** Teachers can view student scores, completion rates, and individual progress.
+ - **09:** Teachers can engage with their students by providing feedback, making announcements, and sending messages.
+
 
 #### 🔧 **Admin Requirements**  
-- **09:** Admins can create, update, and delete student and teacher accounts.  
-- **10:** Admins should monitor platform performance and manage content storage.  
-- **11:** Admins must define roles and restrict access to certain features.  
+- **10:** Admins can create, update, and delete student and teacher accounts.  
+- **11:** Admins should monitor platform performance and manage content storage.  
+- **12:** Admins must define roles and restrict access to certain features.  
 
 ### Non-Functional Requirements  
 
