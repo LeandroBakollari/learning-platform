@@ -31,7 +31,7 @@ This **School Management System** extends this concept by creating a dynamic, ce
 
 ### Non-Functional Requirements  
 
-- **01:** The system should handle at least **100 simultaneous users** without lage .  
+- **01:** The system should handle at least **100 simultaneous users** without lag.  
 - **02:** Passwords must be encrypted, and user roles should restrict access.  
 - **03:** The interface should be clean and easy to navigate on both desktop and mobile devices.  
 - **04:** Data should be auto-saved, ensuring no progress is lost during a session.  
