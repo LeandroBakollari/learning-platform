@@ -10,11 +10,11 @@ This **School Management System** extends this concept by creating a dynamic, ce
 
 ### Functional Requirements  
 
-#### 🎓 **Student Requirements**  
-- **01:** Students must be able to create an account using an email and password.  
-- **02:** Students can view and download course materials (PDFs, videos, slides, etc.) uploaded by teachers.  
-- **03:** Students should complete quizzes or tests within a set time limit and submit answers.  
-- **04:** Students can track their scores and progress charts while earning badges, rewards, and leaderboard rankings for achievements.  
+#### 🎓 **Pupils Requirements**  
+- **01:** Pupils must be able to create an account using an email and password with the help of their parents/guardians.   
+- **02:** Pupils can view and download course materials (PDFs, videos, slides, etc.) uploaded by teachers.  
+- **03:** Pupils should complete quizzes or tests within a set time limit and submit answers.  
+- **04:** Pupils can track their scores and progress charts while earning badges, rewards, and leaderboard rankings for achievements.  
 
 ####  👩‍🏫 **Teacher Requirements**  
 - **05:** Teachers can create classes, add students, and assign learning materials.  
@@ -27,7 +27,12 @@ This **School Management System** extends this concept by creating a dynamic, ce
 #### 🔧 **Principal/Administrator Requirements**  
 - **10:** The Principal/Administrator can create, update, and delete student and teacher accounts.  
 - **11:** They can monitor the performance of both teachers and students.   
-- **12:** Administrators/Principals must define roles and restrict access to certain features.  
+- **12:** Administrators/Principals must define roles and restrict access to certain features.
+
+#### 🛡 **Parents/Guardians Requirements**  
+- **13:** Parents can access and view their child’s personal details, academic performance, attendance, and grades.  
+- **14:** Parents can communicate with their child’s teachers through an integrated messaging system for academic or behavioral inquiries.
+- **15:** Parents should receive alerts and notifications regarding important events, announcements, and updates about their child (e.g., grade reports, parent-teacher meetings).
 
 ### Non-Functional Requirements  
 
